@@ -1,0 +1,13 @@
+C:\Users\NQE8503\Laxmikant\New folder\PerSessionWCFService\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\NQE8503\Laxmikant\New folder\PerSessionWCFService\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\NQE8503\Laxmikant\New folder\PerSessionWCFService\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\NQE8503\Laxmikant\New folder\PerSessionWCFService\ClientApp\obj\x86\Debug\ClientApp.exe
+C:\Users\NQE8503\Laxmikant\New folder\PerSessionWCFService\ClientApp\obj\x86\Debug\ClientApp.pdb
+C:\Users\AADITYA\Desktop\New folder (4)\PerSessionWCFService\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\AADITYA\Desktop\New folder (4)\PerSessionWCFService\ClientApp\obj\x86\Debug\ClientApp.exe
+C:\Users\AADITYA\Desktop\New folder (4)\PerSessionWCFService\ClientApp\obj\x86\Debug\ClientApp.pdb
+C:\Laxmikant\D\Applications\PerSessionWCFService\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Laxmikant\D\Applications\PerSessionWCFService\ClientApp\obj\x86\Debug\ClientApp.exe
+C:\Laxmikant\D\Applications\PerSessionWCFService\ClientApp\obj\x86\Debug\ClientApp.pdb
+C:\Laxmikant\D\Applications\PerSessionWCFService\ClientApp\bin\Debug\ClientApp.exe
+C:\Laxmikant\D\Applications\PerSessionWCFService\ClientApp\bin\Debug\ClientApp.pdb

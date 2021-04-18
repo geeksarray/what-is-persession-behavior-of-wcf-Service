@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="9021e267-76de-4537-944f-7f1739873f93" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:7741/ProductServiceHost.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ProductServiceHost1.disco" MetadataType="Disco" ID="0f64c534-562a-48bb-8253-5ec76f15f791" SourceId="1" SourceUrl="http://aaditya-pc:7741/ProductServiceHost.svc?disco" />
+    <MetadataFile FileName="ProductServiceHost2.xsd" MetadataType="Schema" ID="4ea49cac-aed4-4ea5-8c34-023c6e6976c7" SourceId="1" SourceUrl="http://aaditya-pc:7741/ProductServiceHost.svc?xsd=xsd1" />
+    <MetadataFile FileName="ProductService1.wsdl" MetadataType="Wsdl" ID="0dbdd1a9-232d-4d7f-aaa9-8ea671abe5ca" SourceId="1" SourceUrl="http://aaditya-pc:7741/ProductServiceHost.svc?wsdl" />
+    <MetadataFile FileName="ProductServiceHost.wsdl" MetadataType="Wsdl" ID="309f30fc-7365-480c-863b-5f3b58835809" SourceId="1" SourceUrl="http://aaditya-pc:7741/ProductServiceHost.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="ProductServiceHost21.xsd" MetadataType="Schema" ID="138182dc-f90e-4cdc-a5ad-313ea0058cf2" SourceId="1" SourceUrl="http://aaditya-pc:7741/ProductServiceHost.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,15 @@
+C:\Users\NQE8503\Laxmikant\New folder\PerSessionWCFService\PerSessionWCFService\bin\Debug\PerSessionWCFService.dll.config
+C:\Users\NQE8503\Laxmikant\New folder\PerSessionWCFService\PerSessionWCFService\bin\Debug\PerSessionWCFService.dll
+C:\Users\NQE8503\Laxmikant\New folder\PerSessionWCFService\PerSessionWCFService\bin\Debug\PerSessionWCFService.pdb
+C:\Users\NQE8503\Laxmikant\New folder\PerSessionWCFService\PerSessionWCFService\obj\Debug\PerSessionWCFService.dll
+C:\Users\NQE8503\Laxmikant\New folder\PerSessionWCFService\PerSessionWCFService\obj\Debug\PerSessionWCFService.pdb
+C:\Users\AADITYA\Desktop\New folder (4)\PerSessionWCFService\PerSessionWCFService\bin\Debug\PerSessionWCFService.dll.config
+C:\Users\AADITYA\Desktop\New folder (4)\PerSessionWCFService\PerSessionWCFService\bin\Debug\PerSessionWCFService.dll
+C:\Users\AADITYA\Desktop\New folder (4)\PerSessionWCFService\PerSessionWCFService\bin\Debug\PerSessionWCFService.pdb
+C:\Users\AADITYA\Desktop\New folder (4)\PerSessionWCFService\PerSessionWCFService\obj\Debug\PerSessionWCFService.dll
+C:\Users\AADITYA\Desktop\New folder (4)\PerSessionWCFService\PerSessionWCFService\obj\Debug\PerSessionWCFService.pdb
+C:\Laxmikant\D\Applications\PerSessionWCFService\PerSessionWCFService\bin\Debug\PerSessionWCFService.dll.config
+C:\Laxmikant\D\Applications\PerSessionWCFService\PerSessionWCFService\bin\Debug\PerSessionWCFService.dll
+C:\Laxmikant\D\Applications\PerSessionWCFService\PerSessionWCFService\bin\Debug\PerSessionWCFService.pdb
+C:\Laxmikant\D\Applications\PerSessionWCFService\PerSessionWCFService\obj\Debug\PerSessionWCFService.dll
+C:\Laxmikant\D\Applications\PerSessionWCFService\PerSessionWCFService\obj\Debug\PerSessionWCFService.pdb
